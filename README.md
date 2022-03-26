@@ -1,16 +1,37 @@
-# new_app
+# News App
+A New Flutter project which gives some of the global news which has two screens. 
 
-A new Flutter project.
+# How To Use 
+### Clone the Repo using the command below :point_down:
+```
+git clone https://github.com/pradeep15a/news-app-flutter.git
+```
+### Use The following commands in the terminal of the folder
+``` 
+flutter pub get
+flutter run
+```
 
-## Getting Started
+# These are the screens in the app
+### Home Screen
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80315129/160254552-8a363ce4-edf2-41bc-8126-fa426ba5b88f.jpg" width="50%">
+</p>
 
-This project is a starting point for a Flutter application.
+### Details Screen
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80315129/160254549-572eff8b-cb7a-4aee-926d-0be745c6e337.jpg" width="50%" >
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Working Model
+<p align="center">
+<video width="50%" src="https://user-images.githubusercontent.com/80315129/160255037-b208676f-078e-4d77-9a6f-db06e88d92b4.mp4">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Made in 15 Mins of Flutter Event by GDSC-UVCE
+Special Thanks to the team GDSC-UVCE
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## MADE BY PRADEEP (Core-Team GDSC UVCE)
+1. [Pradeep](https://github.com/pradeep15a)
+2. [Connect with me - LinkedIn](https://www.linkedin.com/in/pradeep-a-a43187221/)
+3. [WhatsApp](https://wa.me/7204690840)
