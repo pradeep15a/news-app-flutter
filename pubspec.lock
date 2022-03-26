@@ -63,7 +63,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_launcher_name:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: flutter_launcher_name
       url: "https://pub.dartlang.org"
