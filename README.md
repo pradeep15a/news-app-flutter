@@ -11,6 +11,9 @@ git clone https://github.com/pradeep15a/news-app-flutter.git
 flutter pub get
 flutter run
 ```
+# Click the link below to get the app
+#### Click below to download the app
+[News App - Click Here](https://drive.google.com/file/d/1gNz9O6iW0bZcPHZBHmlSkybPElDJbu2N/view?usp=sharing)
 
 # These are the screens in the app
 ### Home Screen
